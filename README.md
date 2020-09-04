@@ -5,12 +5,14 @@
 - 의류 이미지에서 색을 추출하여 색의 이름과 해당 색이 의류 이미지에서 몇 %를 차지하는지 알려줍니다.
 - 예시
   1. 원본 이미지
-![제목 없음](https://user-images.githubusercontent.com/69623247/92208721-c2f51b80-eec6-11ea-9e4a-be74c0d392f7.png)
+![1](https://user-images.githubusercontent.com/69623247/92208883-0c456b00-eec7-11ea-874d-456e6ddd1121.png)
+
 
   2. 결과창
 ![result](https://user-images.githubusercontent.com/69623247/92203103-57f21780-eebb-11ea-96e0-f925f7294fc0.PNG)
 
   원본 이미지를 보면 흰색이 들어가 있으나 추출 결과 흰색이 나오지 않습니다. 그 이유는 색 추출 전 segmentation 작업이 이루어지는데, 이 segmentation 시 원본 이미지에 왜곡이 있었기 때문입니다. 
+
 
   3. Segmentation
 ![seg_sample](https://user-images.githubusercontent.com/69623247/92203308-c59e4380-eebb-11ea-8683-99fd37ccba22.png)
