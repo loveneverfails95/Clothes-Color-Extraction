@@ -5,7 +5,7 @@
 - 의류 이미지에서 색을 추출하여 색의 이름과 해당 색이 의류 이미지에서 몇 %를 차지하는지 알려줍니다.
 - 예시
   1. 원본 이미지
-![sample](https://user-images.githubusercontent.com/69623247/92202967-195c5d00-eebb-11ea-8042-a8d8177a613a.png)
+![제목 없음](https://user-images.githubusercontent.com/69623247/92208721-c2f51b80-eec6-11ea-9e4a-be74c0d392f7.png)
 
   2. 결과창
 ![result](https://user-images.githubusercontent.com/69623247/92203103-57f21780-eebb-11ea-96e0-f925f7294fc0.PNG)
@@ -28,8 +28,8 @@ https://github.com/khalid5454/Fashion-AI-segmentation
 
 2. 위에서 다운받은 파일들을 본 repository에서 다운로드 받은 폴더(Clothes-Color-Extraction)에 넣습니다.
 
-3-1(코랩을 이용할 경우). 구글 드라이브에 폴더를 넣고 Run.ipynb을 실행시킵니다. 실행법은 해당 파일 내에 적혀 있습니다.
-3-2(코랩을 이용하지 않을 경우). drive.mount 코드를 실행시키지 않고 그 아래 '준비 코드'부터 실행하면 됩니다.
+3-1. (코랩을 이용할 경우) 구글 드라이브에 폴더를 넣고 Run.ipynb을 실행시킵니다. 실행법은 해당 파일 내에 적혀 있습니다.
+3-2. (코랩을 이용하지 않을 경우) drive.mount 코드를 실행시키지 않고 그 아래 '준비 코드'부터 실행하면 됩니다.
 
 
 ## 기타
